@@ -6,3 +6,5 @@ imbalanced-learn
 joblib
 matplotlib
 seaborn
+xgboost
+pickle
